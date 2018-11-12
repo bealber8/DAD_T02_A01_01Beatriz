@@ -1,0 +1,1 @@
+C:\Users\Bea Calle\Documents\Xamarin\Xamarin\Xamarin.UWP\Xamarin.UWP.csproj;arm

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Xamarin"
+             x:Class="Xamarin.MainPage">
+    <ScrollView>
+        <StackLayout>
+            <!-- Place new controls here -->
+            <Label Text="XAML" 
+                   Font="25"
+                   TextColor="Green"
+               HorizontalOptions="Center"
+               />
+            <Entry Placeholder="Nombre"></Entry>
+            <Entry Placeholder="Apellido 1"></Entry>
+            <Entry Placeholder="Apellido 2"></Entry>
+            <Button Text="2dam01_Beatriz"></Button>
+        </StackLayout>
+    </ScrollView>
+
+</ContentPage>

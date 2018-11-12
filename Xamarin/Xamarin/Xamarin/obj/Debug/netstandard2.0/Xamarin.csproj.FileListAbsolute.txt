@@ -1,0 +1,36 @@
+G:\2DAM\DAD\DAD_T02_A01_01Beatriz\Xamarin\Xamarin\Xamarin\bin\Debug\netstandard2.0\Xamarin.deps.json
+G:\2DAM\DAD\DAD_T02_A01_01Beatriz\Xamarin\Xamarin\Xamarin\bin\Debug\netstandard2.0\Xamarin.dll
+G:\2DAM\DAD\DAD_T02_A01_01Beatriz\Xamarin\Xamarin\Xamarin\bin\Debug\netstandard2.0\Xamarin.pdb
+G:\2DAM\DAD\DAD_T02_A01_01Beatriz\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\Xamarin.csprojAssemblyReference.cache
+G:\2DAM\DAD\DAD_T02_A01_01Beatriz\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\2DAM\DAD\DAD_T02_A01_01Beatriz\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+G:\2DAM\DAD\DAD_T02_A01_01Beatriz\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\Xamarin.csproj.CoreCompileInputs.cache
+G:\2DAM\DAD\DAD_T02_A01_01Beatriz\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\Xamarin.AssemblyInfoInputs.cache
+G:\2DAM\DAD\DAD_T02_A01_01Beatriz\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\Xamarin.AssemblyInfo.cs
+G:\2DAM\DAD\DAD_T02_A01_01Beatriz\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\XamlC.stamp
+G:\2DAM\DAD\DAD_T02_A01_01Beatriz\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\Xamarin.dll
+G:\2DAM\DAD\DAD_T02_A01_01Beatriz\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\Xamarin.pdb
+C:\Users\Bea Calle\Documents\Xamarin\Xamarin\Xamarin\bin\Debug\netstandard2.0\Xamarin.deps.json
+C:\Users\Bea Calle\Documents\Xamarin\Xamarin\Xamarin\bin\Debug\netstandard2.0\Xamarin.dll
+C:\Users\Bea Calle\Documents\Xamarin\Xamarin\Xamarin\bin\Debug\netstandard2.0\Xamarin.pdb
+C:\Users\Bea Calle\Documents\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\Xamarin.csprojAssemblyReference.cache
+C:\Users\Bea Calle\Documents\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Bea Calle\Documents\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Bea Calle\Documents\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\Xamarin.csproj.CoreCompileInputs.cache
+C:\Users\Bea Calle\Documents\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\Xamarin.AssemblyInfoInputs.cache
+C:\Users\Bea Calle\Documents\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\Xamarin.AssemblyInfo.cs
+C:\Users\Bea Calle\Documents\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Bea Calle\Documents\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\Xamarin.dll
+C:\Users\Bea Calle\Documents\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\Xamarin.pdb
+C:\Users\Bea Calle\Documents\DAD_T02_A01_01Beatriz\Xamarin\Xamarin\Xamarin\bin\Debug\netstandard2.0\Xamarin.deps.json
+C:\Users\Bea Calle\Documents\DAD_T02_A01_01Beatriz\Xamarin\Xamarin\Xamarin\bin\Debug\netstandard2.0\Xamarin.dll
+C:\Users\Bea Calle\Documents\DAD_T02_A01_01Beatriz\Xamarin\Xamarin\Xamarin\bin\Debug\netstandard2.0\Xamarin.pdb
+C:\Users\Bea Calle\Documents\DAD_T02_A01_01Beatriz\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\Xamarin.csprojAssemblyReference.cache
+C:\Users\Bea Calle\Documents\DAD_T02_A01_01Beatriz\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Bea Calle\Documents\DAD_T02_A01_01Beatriz\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Bea Calle\Documents\DAD_T02_A01_01Beatriz\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\Xamarin.csproj.CoreCompileInputs.cache
+C:\Users\Bea Calle\Documents\DAD_T02_A01_01Beatriz\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\Xamarin.AssemblyInfoInputs.cache
+C:\Users\Bea Calle\Documents\DAD_T02_A01_01Beatriz\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\Xamarin.AssemblyInfo.cs
+C:\Users\Bea Calle\Documents\DAD_T02_A01_01Beatriz\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Bea Calle\Documents\DAD_T02_A01_01Beatriz\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\Xamarin.dll
+C:\Users\Bea Calle\Documents\DAD_T02_A01_01Beatriz\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\Xamarin.pdb
